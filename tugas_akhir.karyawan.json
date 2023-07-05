@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6481b101c3622cb0dbffd368"
+  },
+  "nama": "Rudi Susanto",
+  "gaji": "55000",
+  "posisi": "Manajer"
+},
+{
+  "_id": {
+    "$oid": "6481b101c3622cb0dbffd369"
+  },
+  "nama": "Siti Rahmawati",
+  "gaji": "380000",
+  "posisi": "Staf"
+},
+{
+  "_id": {
+    "$oid": "6481b101c3622cb0dbffd36a"
+  },
+  "nama": "Budi Santosol",
+  "gaji": "4700",
+  "posisi": "Manajer"
+},
+{
+  "_id": {
+    "$oid": "64830a1f666efbf96a0619e5"
+  },
+  "nama": "ss",
+  "gaji": "100000",
+  "posisi": "manajer"
+},
+{
+  "_id": {
+    "$oid": "648953409cf90f044a038ed4"
+  },
+  "nama": "ard",
+  "gaji": "10000000",
+  "posisi": "manajer"
+},
+{
+  "_id": {
+    "$oid": "648956a49cf90f044a038ed5"
+  },
+  "nama": "lord",
+  "gaji": "100000",
+  "posisi": "manajer"
+},
+{
+  "_id": {
+    "$oid": "64895bd09cf90f044a038ed6"
+  },
+  "nama": "sule",
+  "gaji": "100000",
+  "posisi": "manajer"
+}]
